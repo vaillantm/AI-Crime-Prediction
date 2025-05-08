@@ -1,0 +1,14 @@
+Required Packages:
+streamlit
+pandas
+plotly
+joblib
+
+1.pip install streamlit pandas plotly joblib
+2. Open Crime Prevention Project in vs code
+3. Train Model
+type
+python train_model.py // in terminal vs code
+4.Visualize Data and Predict 
+type
+streamlit run app.py  // in terminal vs code
